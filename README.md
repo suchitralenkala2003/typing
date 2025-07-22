@@ -1,2 +1,3 @@
 # typing
-typing repo
+typing repo telugu skillhub
+
